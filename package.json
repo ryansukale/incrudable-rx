@@ -1,0 +1,22 @@
+{
+  "name": "incrudable-rx",
+  "version": "0.0.1",
+  "description": "Coming soon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryansukale/incrudable-rx.git"
+  },
+  "keywords": [
+    "rxjs"
+  ],
+  "author": "Ryan Sukale",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryansukale/incrudable-rx/issues"
+  },
+  "homepage": "https://github.com/ryansukale/incrudable-rx#readme"
+}
